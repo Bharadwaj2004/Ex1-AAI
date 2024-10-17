@@ -1,4 +1,4 @@
-<H3> Name : VENKATA BHARADWAJ.B S</H3>
+<H3> Name : VENKATA BHARADWAJ.B </H3>
 <H3> Register No : 212222240020</H3>
 <H3> Experiment 1</H3>
 <H3>DATE : 05-09-2024</H3>
